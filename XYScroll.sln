@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D8FA284E-47A0-2D64-D225-E7720A27C6D7}") = "XYScroll", "Assembly-CSharp.csproj", "{DE1FB642-9439-73F4-6696-6D200B65347F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE1FB642-9439-73F4-6696-6D200B65347F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1FB642-9439-73F4-6696-6D200B65347F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1FB642-9439-73F4-6696-6D200B65347F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1FB642-9439-73F4-6696-6D200B65347F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
