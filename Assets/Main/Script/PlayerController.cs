@@ -30,4 +30,14 @@ public class PlayerController : MonoBehaviour {
 		transform.position += movement;
 
 	}
+
+	void OnTriggerEnter(Collider other){
+
+		print (other.name);
+
+		Destroy (other.gameObject);
+
+
+	}
+
 }
