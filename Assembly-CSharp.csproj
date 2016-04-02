@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0E96C5BC-B2F6-C1BB-FA17-EEE2431708F5}</ProjectGuid>
+    <ProjectGuid>{DE1FB642-9439-73F4-6696-6D200B65347F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,6 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Main\Script\CameraController.cs" />
+     <Compile Include="Assets\Main\Script\ItemGenerater.cs" />
      <Compile Include="Assets\Main\Script\PlayerController.cs" />
      <Compile Include="Assets\UnityChan\Scripts\AutoBlink.cs" />
      <Compile Include="Assets\UnityChan\Scripts\AutoBlinkforSD.cs" />
